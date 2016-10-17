@@ -57,4 +57,4 @@ for i in range(start, end):
 st = st+', '+str(i+1)
 asd(st)
 print(delet)
-input()
+input( 'Нажмите Enter' )
